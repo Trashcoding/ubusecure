@@ -1,2 +1,2 @@
 # ubusecure
-Versions of Ubusecure
+Blinks versions
