@@ -1,2 +1,2 @@
 # ubusecure
-Secures an ubu system using some cyber patriot guidelines
+Versions of Ubusecure
